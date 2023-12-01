@@ -7,6 +7,13 @@
 その中で一番大きな数とその引数番号(0開始)を返り値に返します。
 
 
+## 導入
+`satori_conf.txt`に下記を追記
+```
+＠SAORI
+WhenYouBack,Saori/ukagakaSaori_WhenYouBack.dll
+```
+
 ## 使用
 ```
 （WhenYouBack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0）
